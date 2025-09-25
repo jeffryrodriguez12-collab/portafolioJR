@@ -1,0 +1,28 @@
+body {
+display:flex;
+justify-content: space-around;
+align-items: start;
+height: 100vh;
+background-color: rgb(126, 123, 123);
+}
+
+.caja1 {
+    background-color: rgb(92, 76, 76);
+    height: 100px;
+    width: 100PX;
+    color:rgb(241, 240, 240);
+    padding: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+    overflow-wrap: break-word;
+}
+
+.caja2 {
+    background-color: rgb(85, 139, 126);
+    height: 100px;
+    width: 100PX;
+    color:rgb(241, 240, 240);
+    padding: 10px;
+    border-radius: 8px;
+    overflow-wrap: break-word;
+}
