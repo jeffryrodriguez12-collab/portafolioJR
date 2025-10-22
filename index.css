@@ -16,6 +16,7 @@ nav {
   background-color: #1C1F26;
   position: sticky;
   top: 0px;
+  opacity: 0.9;
 }
 header {
   background-color: #2E323B;
